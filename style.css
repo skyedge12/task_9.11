@@ -1,0 +1,31 @@
+
+.container {
+    background-color: rgb(44, 165, 125);
+    border-style: dotted;
+}
+
+.card-header {
+    background-color: rgb(219, 244, 248);
+    font-size: 30px;
+    }
+
+.card-body {
+    background-color: bisque;
+}
+
+#btnRetry {
+    margin-top: 50px;
+    margin-left: 900px;
+    block-size: 80px;
+    width: 150px;
+    background-color: rgb(101, 231, 231);
+    color: black;
+   }
+
+
+#clearBtn {
+    margin-top: 20px;
+    margin-left: 900px;
+    block-size: 80px;
+    width: 150px;
+}
